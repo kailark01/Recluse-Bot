@@ -161,7 +161,7 @@ client.on("guildCreate", guild => {
   const { MessageEmbed } = require("discord.js");
 
 //Subscribe to Atreya YT
-  const ID = "826469181129359380"; 
+  const ID = "1444595047336116337"; 
 //Subscribe to Atreya YT
 
   const channel = client.channels.cache.get(ID);
